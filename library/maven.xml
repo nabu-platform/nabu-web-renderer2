@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<maven>
+    <artifacts>nabu:eai-module-web-renderer2</artifacts>
+    <encapsulated>true</encapsulated>
+    <internalDomains>nabu</internalDomains>
+    <provided>org.slf4j:log4j-over-slf4j</provided>
+    <updateSnapshots>false</updateSnapshots>
+</maven>
