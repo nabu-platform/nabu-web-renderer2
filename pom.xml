@@ -5,8 +5,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>nabu.web</groupId>
 	<artifactId>renderer2</artifactId>
-	<version>1.0-SNAPSHOT</version>
-	<name>renderer</name>
+	<version>${nabu.web-renderer2-version}</version>
+	<name>renderer2</name>
 	
 	<parent>
 		<groupId>be.nabu</groupId>
