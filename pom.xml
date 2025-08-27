@@ -14,5 +14,25 @@
 			<groupId>nabu.web</groupId>
 			<artifactId>application</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>nabu.services</groupId>
+			<artifactId>authorization</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>nabu.protocols.http</groupId>
+			<artifactId>server</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>nabu.protocols.http</groupId>
+			<artifactId>client</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>nabu.misc</groupId>
+			<artifactId>keystore</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>nabu.services</groupId>
+			<artifactId>glue</artifactId>
+		</dependency>
 	</dependencies>
 </project>
